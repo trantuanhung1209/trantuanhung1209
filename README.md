@@ -46,8 +46,8 @@ status:    online ●
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trantuanhung1209/trantuanhung1209/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/trantuanhung1209/trantuanhung1209/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trantuanhung1209/trantuanhung1209/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/trantuanhung1209/trantuanhung1209/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantuanhung1209&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=22D3EE&icon_color=22D3EE&text_color=e0faff&bg_color=0d1117" alt="Top languages" />
