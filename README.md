@@ -58,9 +58,11 @@ status:    online ●
 
 ## 🔭 Now
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=67E8F9&center=true&vCenter=true&width=640&lines=%3E+building+something+new;%3E+refactoring+the+old+thing;%3E+reading+the+docs+nobody+reads" alt="Now" />
-</div>
+```bash
+> building something new
+> refactoring the old thing
+> reading the docs nobody reads
+```
 
 ---
 
