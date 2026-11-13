@@ -36,10 +36,10 @@
 
 ### 📊 Stats
 
-<!-- Đã thay thế bằng mirror ổn định hơn để tránh lỗi ảnh -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trantuanhung1209&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=e0faff&bg_color=0d1117&count_private=true&include_all_commits=true" height="150" alt="stats" />
+<!-- Trỏ trực tiếp đến file SVG được tạo bởi GitHub Actions -->
+<img src="./profile/stats.svg" height="150" alt="stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trantuanhung1209&layout=compact&hide_border=true&langs_count=6&title_color=22D3EE&text_color=e0faff&bg_color=0d1117" height="150" alt="langs" />
+<img src="./profile/top-langs.svg" height="150" alt="langs" />
 
 </td>
 </tr>
